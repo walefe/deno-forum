@@ -25,9 +25,11 @@
 </h3>
 
 > Disclaimer: Não nos responsabilizamos por comentários de má conduta, os contribuidores possuem responsabilidade pelo seus atos e estes não possuem vínculo com a organização.
+
 ---
 
 ## 🚀 Navegue
+
 - [Motivação](#dart-motivação)
 - [Projetos da organização](#satellite-projetos-da-organização)
 - [Participe da comunidade ativamente](#speaker-participe-da-comunidade-ativamente)
@@ -36,6 +38,7 @@
 - [Licença](#memo-licença)
 
 ## :dart: Motivação
+
 Criar um meio onde programadores que tenham interesse por Deno consigam interagir e contribuir para o crescimento do ecossistema.
 
 A [primeira release](https://deno.land/v1) do Deno foi lançada em 13/05/2020 e cada vez mais dúvidas e issues irão surgir, porém as documentações ainda não são tão completas e por isso comunidades então se unindo para centralizar ideias e compartilhar conhecimento sobre o ecossistema.
@@ -64,6 +67,12 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 - Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
 Você pode ver mais detalhes sobre nosso código de conduta [aqui](./CODE_OF_CONDUCT.md).
+
+## :stars: Contribuidores
+
+| [<img src="https://avatars0.githubusercontent.com/u/48022589?s=460&u=6e0093b40a2ad5e8384ca214ee835859d03ebe2e&v=4" width="115"><br><sub>@LauraBeatris</sub>](https://github.com/LauraBeatris) | [<img src="https://avatars0.githubusercontent.com/u/22061051?s=460&u=0d15d6f09904feb15de5842ed5b701477b2fe319&v=4" width="115"><br><sub>@pedro-lb</sub>](https://github.com/pedro-lb) | [<img src="https://avatars2.githubusercontent.com/u/19355306?s=460&u=40427e30946e6804f888b55618b7fe4895371e53&v=4" width="115"><br><sub>@gabrielpra1</sub>](https://github.com/gabrielpra1) | [<img src="https://avatars3.githubusercontent.com/u/22301176?s=460&u=238ae0f1af0d32433ad367db1d761d179c332f59&v=4" width="115"><br><sub>@fredojbg</sub>](https://github.com/fredojbg) | [<img src="https://avatars0.githubusercontent.com/u/33438572?s=460&u=f6919fd2a8d125a5b082dc0c738414e5733d17ed&v=4" width="115"><br><sub>@walefe</sub>](https://github.com/walefe) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 
 ## :heart: Agradecimentos
 
